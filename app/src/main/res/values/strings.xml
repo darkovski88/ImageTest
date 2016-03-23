@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ImageTest</string>
+    <string name="imgur_id">a7bc964cbbd062f</string>
+    <string name="imgur_secret">6eb2b430b58cc2f9ef749149058f489b3dc1f92d</string>
+    <string name="cancel_taks">Cancel task</string>
+    <string name="starting_task">Starting task..</string>
+    <string name="canceled">Canceled</string>
+    <string name="no_internet">No internet connection available</string>
+    <string name="please_wait">Please wait...</string>
+</resources>
